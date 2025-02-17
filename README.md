@@ -3,5 +3,7 @@ COMPANY : CODTECH IT SOLUTIONS
 NAME : Azhagu Krishnan B 
 INTERN ID : CODHC187 
 DOMAIN : SOFTWARE DEVELOPMENT 
+BATCH DURATION :  January 30th, 2025 to March 2nd, 2025
 MENTOR NAME : Neela Santhosh Kumar 
 OUTPUT : 
+![Image](https://github.com/user-attachments/assets/e5d86956-8f79-4e77-97a6-6368196b14e8)
